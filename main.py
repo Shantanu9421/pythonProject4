@@ -210,4 +210,3 @@ def major():
 
 major()
 
-print("HELLO WORLD")
